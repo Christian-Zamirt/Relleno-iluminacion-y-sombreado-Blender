@@ -10,6 +10,7 @@
  
 La homogeneidad también puede predicarse del color por ejemplo : “Pintemos toda la vivienda de un color homogéneo para poder retocar los defectos con mayor facilidad, guardando un poco de pintura”, "Si quieres preparar un color diferente mezclando dos o más tonos, trta de revolver bien la pintura para que quede homogénea"
 
+Esto aplicado en blender quedaria de la siguiente manera:
 
 ![homogeneo](https://user-images.githubusercontent.com/72089660/145914645-6db4f0ef-6d68-438c-8084-4696d16eb9c3.PNG)
 
@@ -31,6 +32,7 @@ En el campo del modelado 3D el material funciona de una manera similar, es un re
 # ILUMINACIÓN
 
 Desde una perspectiva física, una superficie puede emitir luz por su propia emisión, como focos de luz, o reflejar luz de otras superficies que la iluminan. Algunas superficies pueden reflejar y emitir luz. El color que se ve en un punto de un objeto está determinado por las múltiples interacciones entre las fuentes de luz y superficies reflectivas. Este es un proceso recursivo.
+Esto aplicado en blender quedaria de la siguiente manera:
 
 ![image](https://user-images.githubusercontent.com/72089660/145925485-dd9c817f-7efb-4831-934c-263c53b8a83f.png)
 
@@ -41,6 +43,8 @@ Esferas iluminadas
 # SOMBREADO
 
 También conocido como sombreado facetadon o plano, este método aplica un modelo de iluminación sólo una vez, el cual permite determinar un valor de Iλ para un polígono. 
+
+En esta parte muestro como se proyecta la sombra en la esfera:
 
 ![asdfgh](https://user-images.githubusercontent.com/72089660/145932421-a0de7bb2-f791-4bcc-8da0-d062eafd127a.png)
 
