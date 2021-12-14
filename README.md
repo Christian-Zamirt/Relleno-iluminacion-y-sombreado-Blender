@@ -8,6 +8,13 @@
  
 La homogeneidad también puede predicarse del color por ejemplo : “Pintemos toda la vivienda de un color homogéneo para poder retocar los defectos con mayor facilidad, guardando un poco de pintura”, "Si quieres preparar un color diferente mezclando dos o más tonos, trta de revolver bien la pintura para que quede homogénea"
 
+#  COLOR DEGRADADO
+
+El Degradado es una técnica que está especialmente vinculado con el terreno del diseño gráfico y la maquetación, con todo lo que tiene que ver con la elaboración de imágenes o su modificación. Consiste en combinar dos colores de forma que uno va perdiendo intensidad a medida que el otro la va ganando, realizando una transición cromática suave que puede conseguir resultados muy impactantes.
+
+
+
+
 
  
  
